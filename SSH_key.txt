@@ -1,0 +1,8 @@
+The following SSH key was added to your account:
+
+GitHub Desktop - innox-dev01-PC
+4d:7c:2d:fd:8a:56:df:32:31:d0:e9:d8:3b:f0:40:d4
+
+If you believe this key was added in error, you can remove the key and disable access at the following location:
+
+https://github.com/settings/keys
